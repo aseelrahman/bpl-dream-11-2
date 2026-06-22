@@ -1,0 +1,102 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1450000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg break",
+    "price": 1400000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1380000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1360000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1420000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 9.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1480000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 9.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1520000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1410000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicket Keeper",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "price": 1390000,
+    "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
+  }
+]
