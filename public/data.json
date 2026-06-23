@@ -6,7 +6,7 @@
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
+    "price": 500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 9.6,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm off break",
-    "price": 1450000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 9.5,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm leg break",
-    "price": 1400000,
+    "price": 3000,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm off break",
-    "price": 1380000,
+    "price": 2500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm off break",
-    "price": 1360000,
+    "price": 2000,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 9.3,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm off break",
-    "price": 1420000,
+    "price": 2500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 9.2,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 1480000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 9.7,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 1520000,
+    "price": 1000,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 9.3,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1410000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   },
   {
@@ -96,7 +96,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 1390000,
+    "price": 500,
     "playerImg": "https://i.ibb.co/HTbYcsp5/Chat-GPT-Image-Jun-22-2026-05-31-05-PM.png"
   }
 ]
